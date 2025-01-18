@@ -35,7 +35,7 @@ Explore my work in data analysis, visualization, and automation, including:
 
 ## Get in Touch
 
-🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/loyd-d-almeida-7708ba218/))  
+🌐 [LinkedIn] https://www.linkedin.com/in/loyd-d-almeida-7708ba218/ 
 📧 Email: loyddalmeida3@gmail.com  
 
 Feel free to explore my projects, provide feedback, and collaborate. Let's create impactful solutions together! 🚀
